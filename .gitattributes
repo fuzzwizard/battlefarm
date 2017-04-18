@@ -1,0 +1,10 @@
+* text=auto
+
+*.lua text
+
+*.png binary
+*.svg binary
+*.mp3 binary
+*.wav binary
+*.jpg binary
+*.jpeg binary
